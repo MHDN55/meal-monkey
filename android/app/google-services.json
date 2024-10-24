@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707147582809",
+    "project_id": "meal-monkey-3f0f8",
+    "storage_bucket": "meal-monkey-3f0f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707147582809:android:0d953e5ebf7995eb271048",
+        "android_client_info": {
+          "package_name": "com.example.meal_monkey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-rVFkOg4lFO-P-jXeO6I6AYPWBrInVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
