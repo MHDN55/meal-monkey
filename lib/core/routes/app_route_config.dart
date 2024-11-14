@@ -10,7 +10,7 @@ import '../../Features/splash/presentation/pages/splash_page.dart';
 import '../../injection_injectable_package.dart';
 import 'app_route_const.dart';
 
-class MyAppRouter {
+class MealMonkeyRouter {
   static final GlobalKey<NavigatorState> navigatorKey =
       getIt<GlobalKey<NavigatorState>>();
 
