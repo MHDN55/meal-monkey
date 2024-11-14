@@ -25,7 +25,7 @@ class NoAccoutSignUpWidget extends StatelessWidget {
         ),
         TextButton(
           onPressed: () {
-            context.pushReplacementNamed(MyAppRouteConst.signupPage);
+            context.pushReplacementNamed(MyAppRouteConst.signUpPage);
           },
           child: Text(
             textAlign: TextAlign.center,

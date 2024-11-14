@@ -53,8 +53,8 @@ class MealMonkeyRouter {
         },
       ),
       GoRoute(
-        name: MyAppRouteConst.signupPage,
-        path: '/signup_page',
+        name: MyAppRouteConst.signUpPage,
+        path: '/sign_up_page',
         builder: (context, state) {
           return const SignupPage();
         },

@@ -47,7 +47,7 @@ class _AfterOnboardingPageState extends State<AfterOnboardingPage> {
                     buttonText: "Create an Account",
                     onPressed: () {
                       context.pushReplacementNamed(
-                        MyAppRouteConst.signupPage,
+                        MyAppRouteConst.signUpPage,
                       );
                     },
                   ),
